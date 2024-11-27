@@ -80,6 +80,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 			<scope>provided</scope>
 		</dependency>
 
+		<!-- Spring Actuator -->
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+
 		<!-- Spring Modulith -->
 
 		<dependency>
